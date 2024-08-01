@@ -4,6 +4,6 @@ pandas
 st-gsheets-connection
 ydata_profiling
 numba==0.58.1
-matplotlib.pyplot
-plotly.express
+matplotlib
+plotly-express
 seaborn
